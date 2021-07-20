@@ -5,6 +5,7 @@ import task_2020_04
 import task_2020_05
 import task_2020_06
 import task_2020_07
+import task_2020_08
 
 if __name__ == '__main__':
     print("\ntask 1.1:")
@@ -44,3 +45,8 @@ if __name__ == '__main__':
     task_2020_07.get_solution_1()
     print("\ntask7.2")
     task_2020_07.get_solution_2()
+
+    print("\ntask8.1")
+    task_2020_08.get_solution_1()
+    print("\ntask8.2")
+    task_2020_08.get_solution_2()
